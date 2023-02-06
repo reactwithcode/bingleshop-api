@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "bismillah",
+    "database": "bingleshop_development",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "bingleshop_",
+    "database": "bingleshop_test",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "bingleshop_",
+    "database": "bingleshop_production",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
